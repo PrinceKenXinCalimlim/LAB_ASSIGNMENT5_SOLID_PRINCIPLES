@@ -53,4 +53,5 @@
     }
 
 ### UML CLASS DIAGRAM
+![UML SOLID](https://github.com/user-attachments/assets/d6c9ebbd-eadb-43a2-bb48-b34c9365f438)
 
